@@ -1,23 +1,72 @@
 [
-{
-    "id": 1,
+  {
+    "id": 3293,
     "price": 2,
-    "name": "Gift 1",
-    "thumbnail": "https://github.com/younisitcorner/gift_frames/blob/b2498c323f365fcc4a9fb08901d79d97dcbb3d8a/3293-3D%E7%8E%AB%E7%91%B0.png?raw=true",
-    "svga_path1": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/gift_frames3.svga"
-},
-{ 
-    "id": 2,
+    "name": "3D玫瑰",
+    "thumbnail": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/3293-3D%E7%8E%AB%E7%91%B0.png",
+    "svga_path1": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/3293-3D%E7%8E%AB%E7%91%B0.svga"
+  },
+  {
+    "id": 52780,
     "price": 10,
-    "name": "Gift 2",
-    "thumbnail": "https://raw.githubusercontent.com/younisitcorner/gift_frames/b2498c323f365fcc4a9fb08901d79d97dcbb3d8a/3457-%E6%99%9A%E5%AE%89%E7%81%AF.png",
-    "svga_path1": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/gift_frames2.svga"
-},
-{
-    "id": 3,
-    "price": 20,
-    "name": "Gift 3",
-    "thumbnail": "https://github.com/younisitcorner/gift_frames/blob/b2498c323f365fcc4a9fb08901d79d97dcbb3d8a/28154-%E9%87%91%E9%B9%B0%E7%AA%81%E5%87%BB.png?raw=trueg",
-    "svga_path1": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/gift_frames1.svga"
-}
+    "name": "霸气表白",
+    "thumbnail": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/52780-%E9%9C%B8%E6%B0%94%E8%A1%A8%E7%99%BD.png",
+    "svga_path1": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/52780-%E9%9C%B8%E6%B0%94%E8%A1%A8%E7%99%BD.svga"
+  },
+  {
+    "id": 3457,
+    "price": 25,
+    "name": "晚安灯",
+    "thumbnail": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/3457-%E6%99%9A%E5%AE%89%E7%81%AF.png",
+    "svga_path1": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/3457-%E6%99%9A%E5%AE%89%E7%81%AF.svga"
+  },
+  {
+    "id": 75249,
+    "price": 30,
+    "name": "生气辣椒",
+    "thumbnail": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/75249-%E7%94%9F%E6%B0%94%E8%BE%A3%E6%A4%92.png",
+    "svga_path1": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/75249-%E7%94%9F%E6%B0%94%E8%BE%A3%E6%A4%92.svga"
+  },
+  {
+    "id": 78598,
+    "price": 50,
+    "name": "蝴蝶烟花",
+    "thumbnail": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/78598-%E8%9D%B4%E8%9D%B6%E7%83%9F%E8%8A%B1.png",
+    "svga_path1": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/78598-%E8%9D%B4%E8%9D%B6%E7%83%9F%E8%8A%B1.svga"
+  },
+  {
+    "id": 80926,
+    "price": 100,
+    "name": "亲亲你",
+    "thumbnail": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/80926-%E4%BA%B2%E4%BA%B2%E4%BD%A0.png",
+    "svga_path1": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/80926-%E4%BA%B2%E4%BA%B2%E4%BD%A0.svga"
+  },
+  {
+    "id": 79191,
+    "price": 150,
+    "name": "黄金贝壳",
+    "thumbnail": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/79191-%E9%BB%84%E9%87%91%E8%B4%9D%E5%A3%B3.png",
+    "svga_path1": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/79191-%E9%BB%84%E9%87%91%E8%B4%9D%E5%A3%B3.svga"
+  },
+  {
+    "id": 31347,
+    "price": 200,
+    "name": "埃及秘宝",
+    "thumbnail": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/31347-%E5%9F%83%E5%8F%8A%E7%A7%98%E5%AE%9D.png",
+    "svga_path1": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/31347-%E5%9F%83%E5%8F%8A%E7%A7%98%E5%AE%9D.svga"
+  },
+  {
+    "id": 81414,
+    "price": 500,
+    "name": "圣剑现世",
+    "thumbnail": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/81414-%E5%9C%A3%E5%89%91%E7%8E%B0%E4%B8%96.png",
+    "svga_path1": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/81414-%E5%9C%A3%E5%89%91%E7%8E%B0%E4%B8%96.svga"
+  },
+  {
+    "id": 28154,
+    "price": 2000,
+    "name": "金鹰突击",
+    "thumbnail": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/28154-%E9%87%91%E9%B9%B0%E7%AA%81%E5%87%BB.png",
+    "svga_path1": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/28154-%E9%87%91%E9%B9%B0%E7%AA%81%E5%87%BB.svga"
+  }
 ]

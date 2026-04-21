@@ -74,8 +74,8 @@
     "id": 93736,
     "price": 300,
     "name": "霸气猛兽-闪电狮子",
-    "thumbnail": "https://raw.githubusercontent.com/younisitcorner/gift_frames/493b7f40974941a9177a0f739388a915cde57b1f/93736-%E9%9C%B8%E6%B0%94%E7%8C%9B%E5%85%BD-%E9%97%AA%E7%94%B5%E7%8B%AE%E5%AD%90.png?raw=true",
-    "svga_path1": "https://raw.githubusercontent.com/younisitcorner/gift_frames/493b7f40974941a9177a0f739388a915cde57b1f/93736-%E9%9C%B8%E6%B0%94%E7%8C%9B%E5%85%BD-%E9%97%AA%E7%94%B5%E7%8B%AE%E5%AD%90.svga"
+    "thumbnail": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/93736-%E9%9C%B8%E6%B0%94%E7%8C%9B%E5%85%BD-%E9%97%AA%E7%94%B5%E7%8B%AE%E5%AD%90.png?raw=true",
+    "svga_path1": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/93736-%E9%9C%B8%E6%B0%94%E7%8C%9B%E5%85%BD-%E9%97%AA%E7%94%B5%E7%8B%AE%E5%AD%90.svga"
   },
 
   // 🔥 NEW ITEM 2
@@ -83,7 +83,7 @@
     "id": 22922,
     "price": 150,
     "name": "全城告白",
-    "thumbnail": "https://raw.githubusercontent.com/younisitcorner/gift_frames/493b7f40974941a9177a0f739388a915cde57b1f/22922-%E5%85%A8%E5%9F%8E%E5%91%8A%E7%99%BD.png?raw=true",
-    "svga_path1": "https://raw.githubusercontent.com/younisitcorner/gift_frames/493b7f40974941a9177a0f739388a915cde57b1f/22922-%E5%85%A8%E5%9F%8E%E5%91%8A%E7%99%BD.svga"
+    "thumbnail": "https://raw.githubusercontent.com/younisitcorner/gift_frames/mainf/22922-%E5%85%A8%E5%9F%8E%E5%91%8A%E7%99%BD.png?raw=true",
+    "svga_path1": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/22922-%E5%85%A8%E5%9F%8E%E5%91%8A%E7%99%BD.svga"
   }
 ]

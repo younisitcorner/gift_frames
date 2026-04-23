@@ -12,7 +12,7 @@
     "id": 52780,
     "price": 10,
     "name": "霸气表白",
-     "isGlobal": false,
+     "isGlobal": true,
     "thumbnail": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/52780-%E9%9C%B8%E6%B0%94%E8%A1%A8%E7%99%BD.png?raw=true",
     "svga_path1": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/52780-%E9%9C%B8%E6%B0%94%E8%A1%A8%E7%99%BD.svga"
   },

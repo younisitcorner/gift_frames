@@ -48,6 +48,14 @@
     "thumbnail": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/80926-%E4%BA%B2%E4%BA%B2%E4%BD%A0.png?raw=true",
     "svga_path1": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/80926-%E4%BA%B2%E4%BA%B2%E4%BD%A0.svga"
   },
+    {
+    "id": 80920,
+    "price": 100,
+    "name": "让驴看看",
+     "isGlobal": false,
+    "thumbnail": "https://github.com/younisitcorner/gift_frames/blob/172b82e6b79e3f1757612db80e64d7837f116336/%E8%AE%A9%E9%A9%B4%E7%9C%8B%E7%9C%8B.png?raw=true",
+    "svga_path1": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/172b82e6b79e3f1757612db80e64d7837f116336/%E8%AE%A9%E9%A9%B4%E7%9C%8B%E7%9C%8B.svga"
+  },
   {
     "id": 79191,
     "price": 150,
@@ -88,9 +96,17 @@
     "thumbnail": "https://raw.githubusercontent.com/younisitcorner/gift_frames/1c9501859cfd836e843e5849b8acf4c9ad9f88d1/22922-%E5%85%A8%E5%9F%8E%E5%91%8A%E7%99%BD.png?raw=true",
     "svga_path1":  "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/22922-%E5%85%A8%E5%9F%8E%E5%91%8A%E7%99%BD.svga"
   },
+    {
+    "id": 22928,
+    "price": 5000,
+    "name": "全城告白",
+     "isGlobal": true,
+    "thumbnail": "https://raw.githubusercontent.com/younisitcorner/gift_frames/172b82e6b79e3f1757612db80e64d7837f116336/%E7%83%AD%E6%81%8B%E7%8E%AB%E7%91%B0%E5%9B%AD.png?raw=true",
+    "svga_path1":"https://raw.githubusercontent.com/younisitcorner/gift_frames/main/172b82e6b79e3f1757612db80e64d7837f116336/%E7%83%AD%E6%81%8B%E7%8E%AB%E7%91%B0%E5%9B%ADsvga.svga"
+  }
   {
     "id": 22922,
-    "price": 5000,
+    "price": 10000,
     "name": "全城告白",
      "isGlobal": true,
     "thumbnail": "https://raw.githubusercontent.com/younisitcorner/gift_frames/3925948c6edf21509503d4fe3993dfa569ab1a2b/93736-%E9%9C%B8%E6%B0%94%E7%8C%9B%E5%85%BD-%E9%97%AA%E7%94%B5%E7%8B%AE%E5%AD%90.png?raw=true",

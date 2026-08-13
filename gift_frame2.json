@@ -114,9 +114,9 @@
   },
   {
   "id": 14082026,
-  "price": 100,
+  "price": 200,
   "name": "Happy Independence Day",
-  "isGlobal": true,
+  "isGlobal": false,
   "thumbnail": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/pak.png",
   "svga_path1": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/_000_001.svga"
 }

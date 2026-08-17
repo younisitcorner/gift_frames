@@ -48,14 +48,7 @@
     "thumbnail": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/80926-%E4%BA%B2%E4%BA%B2%E4%BD%A0.png?raw=true",
     "svga_path1": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/80926-%E4%BA%B2%E4%BA%B2%E4%BD%A0.svga"
   },
-{
-  "id": 80920,
-  "price": 100,
-  "name": "让驴看看",
-  "isGlobal": false,
-  "thumbnail": "https://raw.githubusercontent.com/younisitcorner/gift_frames/172b82e6b79e3f1757612db80e64d7837f116336/%E8%AE%A9%E9%A9%B4%E7%9C%8B%E7%9C%8B.png",
-  "svga_path1": "https://raw.githubusercontent.com/younisitcorner/gift_frames/b1c1996286b25c7a241cf80d9290f406afff2616/%E8%AE%A9%E9%A9%B4%E7%9C%8B%E7%9C%8B.svga"
-},
+
   
   {
   "id": 14082026,
@@ -72,6 +65,14 @@
   "isGlobal": false,
   "thumbnail": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/afghan.png",
   "svga_path1": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/afgan.svga"
+},
+  {
+  "id": 80920,
+  "price": 100,
+  "name": "让驴看看",
+  "isGlobal": false,
+  "thumbnail": "https://raw.githubusercontent.com/younisitcorner/gift_frames/172b82e6b79e3f1757612db80e64d7837f116336/%E8%AE%A9%E9%A9%B4%E7%9C%8B%E7%9C%8B.png",
+  "svga_path1": "https://raw.githubusercontent.com/younisitcorner/gift_frames/b1c1996286b25c7a241cf80d9290f406afff2616/%E8%AE%A9%E9%A9%B4%E7%9C%8B%E7%9C%8B.svga"
 },
   {
     "id": 79191,

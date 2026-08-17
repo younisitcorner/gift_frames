@@ -119,5 +119,13 @@
   "isGlobal": false,
   "thumbnail": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/pak.png",
   "svga_path1": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/_000_001.svga"
+},
+  {
+  "id": 19082026,
+  "price": 100,
+  "name": "Happy Afghanistan Independence Day",
+  "isGlobal": false,
+  "thumbnail": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/afghan.png",
+  "svga_path1": "https://raw.githubusercontent.com/younisitcorner/gift_frames/main/afgan.svga"
 }
 ]
